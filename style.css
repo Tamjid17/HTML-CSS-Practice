@@ -11,6 +11,7 @@ html,body{
 .parent{
     width: 600px;
     height: 600px;
+    overflow: hidden;
     background-color: aquamarine;
 }
 .child{
