@@ -9,20 +9,15 @@ html,body{
     height: 100%;
 }
 
-#car1 {
-    width: 150px;
-    height: 120px;
-    background-color: aqua;
+#box {
+    width: 300px;
+    height: 300px;
+    background-color: gold;
 }
-#car2 {
-    position: absolute;
-    width: 200px;
-    height: 170px;
-    background-color: orange;
-}
-#car3 {
-    position: absolute;
-    width: 230px;
-    height: 100px;
-    background-color: royalblue;
+#qube{
+    position: relative;
+    left: 40%;
+    width: 30px;
+    height: 30px;
+    background-color: brown;
 }
