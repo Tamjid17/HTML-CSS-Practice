@@ -18,9 +18,8 @@ html,body{
 }
 
 .p {
-    border: 3px;
-    border-color: aqua;
-    border-style: solid;
+    border: 3px solid aqua;
+    /* border width, style and color can be written like above in border attribute */
     width: 400px;
     height: 250px;
     background-color: blueviolet;
