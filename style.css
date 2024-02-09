@@ -10,7 +10,7 @@ html,body{
 }
 
 p {
-    display: inline;
+    display: inline-block;
     background-color: greenyellow;
     width: 600px;
     height: 600px;
