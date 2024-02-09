@@ -20,6 +20,8 @@ html,body{
 .p {
     border: 3px solid aqua;
     /* border width, style and color can be written like above in border attribute */
+    border-radius: 50%;
+    /* 50% for totally circular object also accepts px values*/
     width: 400px;
     height: 250px;
     background-color: blueviolet;
