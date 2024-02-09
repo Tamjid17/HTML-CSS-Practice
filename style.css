@@ -16,3 +16,19 @@ html,body{
     text-decoration: line-through;
     font-size: 4vh;
 }
+
+.p {
+    padding: 26px 45px;
+    /* padding can take upto 4 values upper, right, bottom, left   */
+    margin: 40px;
+    /* margin can take upto 4 values upper, right, bottom, left   */
+    width: 400px;
+    height: 250px;
+    background-color: blueviolet;
+}
+
+.c {
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+}
