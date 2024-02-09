@@ -9,20 +9,4 @@ html,body{
     height: 100%;
 }
 
-.lorem {
-    font-family: Merriweather;
-    font-weight: 400;
-    text-transform: none;
-    text-decoration: line-through;
-    font-size: 4vh;
-}
 
-.p {
-    border: 3px solid aqua;
-    /* border width, style and color can be written like above in border attribute */
-    border-radius: 50%;
-    /* 50% for totally circular object also accepts px values*/
-    width: 400px;
-    height: 250px;
-    background-color: blueviolet;
-}
