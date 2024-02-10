@@ -9,10 +9,10 @@ html,body{
     height: 100%;
 }
 
-input{
+p{
     font-size: 30px;
 }
 
-input:focus{
-    background-color: chocolate;
+p:nth-child(2n){
+    color: red;
 }
