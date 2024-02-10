@@ -8,16 +8,10 @@ html,body{
     width: 100%;
     height: 100%;
 }
-p {
-    position: relative;
-    width: fit-content;
-    background-color: green;
+h1::first-letter{
+    font-size: 120px;
 }
-p::before {
-    position: absolute;
-    top: 100%;
-    content: '';
-    width: 100%;
-    height: 3px;
-    background-color: aqua;
+
+h1::first-line {
+    color: brown;
 }
