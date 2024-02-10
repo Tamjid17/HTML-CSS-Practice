@@ -9,10 +9,10 @@ html,body{
     height: 100%;
 }
 
-button{
+input{
     font-size: 30px;
 }
 
-button:active{
+input:focus{
     background-color: chocolate;
 }
