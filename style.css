@@ -9,6 +9,10 @@ html,body{
     height: 100%;
 }
 
-h1:hover {
-    color: aquamarine;
+button{
+    font-size: 30px;
+}
+
+button:active{
+    background-color: chocolate;
 }
