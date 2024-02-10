@@ -9,6 +9,6 @@ html,body{
     height: 100%;
 }
 
-h1::selection {
+h1:hover {
     color: aquamarine;
 }
